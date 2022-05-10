@@ -1,3 +1,5 @@
+# В этой задаче вам нужно заполнить форму (http://suninjuly.github.io/huge_form.html).
+# С помощью неё отдел маркетинга компании N захотел собрать подробную информацию о пользователях своего продукта.
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time

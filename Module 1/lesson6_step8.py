@@ -1,3 +1,4 @@
+# На этот раз воспользуемся возможностью искать элементы по XPath.
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time

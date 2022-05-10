@@ -1,3 +1,4 @@
+# На указанной ниже странице вам нужно найти зашифрованную ссылку и кликнуть по ней:
 import math
 from selenium import webdriver
 import time

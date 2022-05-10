@@ -1,3 +1,6 @@
+# Попробуем реализовать один из автотестов из предыдущего шага. Вам дана страница с формой регистрации
+# Проверьте, что можно зарегистрироваться на сайте, заполнив только обязательные поля, отмеченные символом *: First name, last name, email.
+# Текст для полей может быть любым. Успешность регистрации проверяется сравнением ожидаемого текста "Congratulations! You have successfully registered!"
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
