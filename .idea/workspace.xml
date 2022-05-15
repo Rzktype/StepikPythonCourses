@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29159282-0fde-4670-bb9a-ea8868c73f03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module 2/lesson2-1_step7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2/lesson2-1_step7_anotherDecisions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2/lesson2-2_step3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2/lesson2-2_step3_anotherDecisions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/lesson2-1_step7_anotherDecisions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 2/lesson2-1_step7_anotherDecisions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

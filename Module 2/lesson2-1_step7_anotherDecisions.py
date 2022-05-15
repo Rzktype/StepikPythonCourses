@@ -1,3 +1,4 @@
+# 1
 from selenium import webdriver
 from math import log, sin
 
@@ -15,7 +16,7 @@ browser.find_element_by_id('answer').send_keys(str(log(abs(12 * sin(int(valuex))
 # Отметить checkbox "Подтверждаю, что являюсь роботом". Выбрать radiobutton "Роботы рулят!". Нажать на кнопку Отправить.
 for selector in ['#robotCheckbox', '#robotsRule', '.btn.btn-default']:
   browser.find_element_by_css_selector(selector).click()
-
+# 2
 import math
 import time
 from selenium import webdriver
@@ -36,7 +37,7 @@ try:
 finally:
     time.sleep(5)
     browser.quit()
-
+# 3
 from selenium import webdriver
 import math
 
