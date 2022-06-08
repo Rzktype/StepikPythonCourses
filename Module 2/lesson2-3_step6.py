@@ -37,7 +37,7 @@ element1.send_keys(y)
 element2 = browser.find_element(By.TAG_NAME, "button")
 element2.click()
 
-time.sleep(1)
+time.sleep(2)
 
 confirm = browser.switch_to.alert # Переходим к модалке и кликаем "Ок"
 confirm.accept()
